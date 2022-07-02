@@ -20,4 +20,6 @@ Do you like to work with us? Have a look at our open job positions here: https:/
 
 ## Contact us
 
-Find our contact information here: https://bitexpert.de/en_US/kontakt/
+Contact us: https://bitexpert.de/en_US/kontakt/    
+Twitter: https://www.twitter.com/bitExpert    
+LinkedIn: https://www.linkedin.com/company/bitexpert-ag/    
