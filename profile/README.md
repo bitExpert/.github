@@ -8,11 +8,15 @@ Besides using Open-Source solutions for our daily business we contribute to Open
 
 ## We support Community
 
-We activly support the software development community. We help organize meetups like the [PHP UG Frankfurt Meetup](https://www.phpugffm.de) or the [PHP UG Metrolpolregion Rhein-Neckar Meetup](http://www.phpugmrn.de). We also like provide our office space for local meetup gatherings and had a lot of fun hosting the [PHPUnit Code Sprint](https://phpunit.de/code-sprints/september-2019.html) back in 2019. If you think we can help, contact us!
+We actively support the software development community. We help organize meetups like the [PHP UG Frankfurt Meetup](https://www.phpugffm.de) or the [PHP UG Metrolpolregion Rhein-Neckar Meetup](http://www.phpugmrn.de). We also like provide our office space for local meetup gatherings and had a lot of fun hosting the [PHPUnit Code Sprint](https://phpunit.de/code-sprints/september-2019.html) back in 2019. If you think we can help, contact us!
 
 Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussing on web development & software development topics. We usually have about 120 nerds in our office for an awesome day of learning.
 
-Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). Go check it out! 
+Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
+<!--- blog_start --->
+ - [Steps for better Content Security Policy rollouts](https://blog.bitexpert.de/blog/steps-better-csp-rollouts)
+ - [Composer Integrity Plugin](https://blog.bitexpert.de/blog/composer_integrity_plugin)
+<!--- blog_end --->
 
 ## We are hiring
 
