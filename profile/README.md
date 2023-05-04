@@ -16,6 +16,9 @@ Also, we love to share our thoughts and experiences in our [blog](https://blog.b
 <!--- blog_start --->
  - [Steps for better Content Security Policy rollouts](https://blog.bitexpert.de/blog/steps-better-csp-rollouts)
  - [Composer Integrity Plugin](https://blog.bitexpert.de/blog/composer_integrity_plugin)
+ - [Permanent SSH tunnel with systemd](https://blog.bitexpert.de/blog/permanent-ssh-tunnel-with-systemd)
+ - [Mage Titans Manchester 2023 conference review](https://blog.bitexpert.de/blog/magetitians_manchester_2023_review)
+ - [Handling invalid url parameters with nginx](https://blog.bitexpert.de/blog/nginx_handle_invalid_urls)
 <!--- blog_end --->
 
 ## We are hiring
