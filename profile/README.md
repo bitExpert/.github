@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [PHPUGFFM 03/23 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_may_2023)
  - [Steps for better Content Security Policy rollouts](https://blog.bitexpert.de/blog/steps-better-csp-rollouts)
  - [Composer Integrity Plugin](https://blog.bitexpert.de/blog/composer_integrity_plugin)
  - [Permanent SSH tunnel with systemd](https://blog.bitexpert.de/blog/permanent-ssh-tunnel-with-systemd)
  - [Mage Titans Manchester 2023 conference review](https://blog.bitexpert.de/blog/magetitians_manchester_2023_review)
- - [Handling invalid url parameters with nginx](https://blog.bitexpert.de/blog/nginx_handle_invalid_urls)
 <!--- blog_end --->
 
 ## We are hiring
