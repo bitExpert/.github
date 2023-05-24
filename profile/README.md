@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Elasticsuite Sort Relevance Boost](https://blog.bitexpert.de/blog/elasticsuite_sort_relevance_boost)
  - [One year of using Docusaurus](https://blog.bitexpert.de/blog/one_year_of_docusaurus)
  - [API Platform Conference 2023](https://blog.bitexpert.de/blog/api_platform_conference_2023)
  - [Debugging a TraefikEE routing problem](https://blog.bitexpert.de/blog/debugging_traefikee_routing_problem)
  - [Undefined array key instance in ArgumentsResolver.php](https://blog.bitexpert.de/blog/magento_undefined_key_arguments_resolver)
- - [PHPUGFFM 03/23 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_may_2023)
 <!--- blog_end --->
 
 ## We are hiring
