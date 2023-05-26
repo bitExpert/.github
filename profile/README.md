@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Autoheal your Docker containers](https://blog.bitexpert.de/blog/autoheal-your-docker-containers)
  - [Elasticsuite Sort Relevance Boost](https://blog.bitexpert.de/blog/elasticsuite_sort_relevance_boost)
  - [One year of using Docusaurus](https://blog.bitexpert.de/blog/one_year_of_docusaurus)
  - [API Platform Conference 2023](https://blog.bitexpert.de/blog/api_platform_conference_2023)
  - [Debugging a TraefikEE routing problem](https://blog.bitexpert.de/blog/debugging_traefikee_routing_problem)
- - [Undefined array key instance in ArgumentsResolver.php](https://blog.bitexpert.de/blog/magento_undefined_key_arguments_resolver)
 <!--- blog_end --->
 
 ## We are hiring
