@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Automated Sylius Deployment](https://blog.bitexpert.de/blog/sylius_deployment_pipeline)
  - [Linting neon files in CI](https://blog.bitexpert.de/blog/linting_neon_files)
  - [HashiDays 2023 Munich recap](https://blog.bitexpert.de/blog/hashidays_2023_recap)
  - [Our Docusaurus publishing workflow](https://blog.bitexpert.de/blog/our_docusaurus_publishing_workflow)
  - [Using Gally API](https://blog.bitexpert.de/blog/using_gally_api)
- - [DDEV for IntelliJ IDEA causes PHPUnit error](https://blog.bitexpert.de/blog/ddev_intellij_plugin_phpunit_error)
 <!--- blog_end --->
 
 ## We are hiring
