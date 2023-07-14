@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Traefik file provider configuration](https://blog.bitexpert.de/blog/traefik_file_provider_configuration)
  - [Slim down your binaries](https://blog.bitexpert.de/blog/slim-down-binaries)
  - [Using Sulu user roles in conditions](https://blog.bitexpert.de/blog/sulu_userroles_in_conditions)
  - [Automated Sylius Deployment](https://blog.bitexpert.de/blog/sylius_deployment_pipeline)
  - [Linting neon files in CI](https://blog.bitexpert.de/blog/linting_neon_files)
- - [HashiDays 2023 Munich recap](https://blog.bitexpert.de/blog/hashidays_2023_recap)
 <!--- blog_end --->
 
 ## We are hiring
