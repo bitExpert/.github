@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [PHPUGMRN 04/23 meetup](https://blog.bitexpert.de/blog/phpugmrn_meetup_august_2023)
  - [Matomo Tracking in a Sulu Headless setup](https://blog.bitexpert.de/blog/matomo_tracking_sulu_headless)
  - [unKonf 2023](https://blog.bitexpert.de/blog/unkonf-2023)
  - [Moving to Neovim](https://blog.bitexpert.de/blog/moving-to-neovim)
  - [Traefik file provider configuration](https://blog.bitexpert.de/blog/traefik_file_provider_configuration)
- - [Slim down your binaries](https://blog.bitexpert.de/blog/slim-down-binaries)
 <!--- blog_end --->
 
 ## We are hiring
