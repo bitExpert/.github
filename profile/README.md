@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [PHPUGFFM 04/23 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_september_2023)
  - [Why DDEV?](https://blog.bitexpert.de/blog/why_ddev)
  - [Sync Sylius order payment state to an invoice](https://blog.bitexpert.de/blog/sylius_invoice_sync_paymentstate)
  - [Deployer & Tideways Deployment Events](https://blog.bitexpert.de/blog/deployer_tideways_deployment_events)
  - [DDEV & CaptainHookPHP](https://blog.bitexpert.de/blog/ddev_captainhookphp)
- - [PHPUGMRN 04/23 meetup](https://blog.bitexpert.de/blog/phpugmrn_meetup_august_2023)
 <!--- blog_end --->
 
 ## We are hiring
