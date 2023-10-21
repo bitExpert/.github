@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Using existing Docker network error in Docker Compose](https://blog.bitexpert.de/blog/docker_using_existing_network)
  - [PostgreSQL upgrade in a Docker setup](https://blog.bitexpert.de/blog/postgresql_upgrade_with_docker)
  - [Deploying Sulu CMS with Deployer](https://blog.bitexpert.de/blog/deploying_sulu_with_deployer)
  - [Api Platform Conference 2023](https://blog.bitexpert.de/blog/api-platform-con-2023)
  - [Avoid sending multiple invoice emails in Sylius](https://blog.bitexpert.de/blog/sylius_avoid_sending_multiple_invoice_emails)
- - [Shrink your WSL2 virtual disk to reclaim disk space](https://blog.bitexpert.de/blog/shrink_wsl2_virtual_disk)
 <!--- blog_end --->
 
 ## We are hiring
