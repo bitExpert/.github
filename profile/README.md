@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Hello Docusaurus v3!](https://blog.bitexpert.de/blog/hello_docusaurus_v3)
  - [My SyliusCon 2023 review](https://blog.bitexpert.de/blog/syliuscon2023_review)
  - [Using GitLab environment specific variables in multiple jobs](https://blog.bitexpert.de/blog/gitlab_ci_using_env_vars_in_multiple_jobs)
  - [Deploying Sylius with Deployer](https://blog.bitexpert.de/blog/deploying_sylius_with_deployer)
  - [Using existing Docker network error in Docker Compose](https://blog.bitexpert.de/blog/docker_using_existing_network)
- - [PostgreSQL upgrade in a Docker setup](https://blog.bitexpert.de/blog/postgresql_upgrade_with_docker)
 <!--- blog_end --->
 
 ## We are hiring
