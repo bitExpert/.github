@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Display RSS feed on your GitHub profile](https://blog.bitexpert.de/blog/display_rss_feed_on_github_profile)
  - [PHPUGFFM 05/23 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_november_2023)
  - [Hello Docusaurus v3!](https://blog.bitexpert.de/blog/hello_docusaurus_v3)
  - [My SyliusCon 2023 review](https://blog.bitexpert.de/blog/syliuscon2023_review)
  - [Using GitLab environment specific variables in multiple jobs](https://blog.bitexpert.de/blog/gitlab_ci_using_env_vars_in_multiple_jobs)
- - [Deploying Sylius with Deployer](https://blog.bitexpert.de/blog/deploying_sylius_with_deployer)
 <!--- blog_end --->
 
 ## We are hiring
