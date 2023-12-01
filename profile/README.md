@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [OpenAI experiments](https://blog.bitexpert.de/blog/openai_experiments)
  - [Kellerkinder Barcamp 2023 review](https://blog.bitexpert.de/blog/kellerkinder_barcamp_2023_review)
  - [Deploy Docusaurus on Nomad](https://blog.bitexpert.de/blog/deploy_docusaurus_on_nomad)
  - [PHPUGMRN 06/23 meetup](https://blog.bitexpert.de/blog/phpugmrn_meetup_december_2023)
  - [Display RSS feed on your GitHub profile](https://blog.bitexpert.de/blog/display_rss_feed_on_github_profile)
- - [PHPUGFFM 05/23 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_november_2023)
 <!--- blog_end --->
 
 ## We are hiring
