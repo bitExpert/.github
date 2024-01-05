@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Zero Trust Access with Hashicorp Boundary](https://blog.bitexpert.de/blog/zero_trust_access_hashicorp_boundary)
  - [What are Sylius Template Events?](https://blog.bitexpert.de/blog/sylius_template_events)
  - [Happy Birthday phpugmrn!](https://blog.bitexpert.de/blog/happy_birthday_phpugmrn_2023)
  - [Why is bitExpert blogging?](https://blog.bitexpert.de/blog/why_blogging)
  - [Detect Git secrets leakage with CaptainHookPHP](https://blog.bitexpert.de/blog/captainhookphp_detect_secrets_leakage)
- - [OpenAI experiments](https://blog.bitexpert.de/blog/openai_experiments)
 <!--- blog_end --->
 
 ## We are hiring
