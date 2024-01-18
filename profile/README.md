@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Project management insights by Lee Lambert](https://blog.bitexpert.de/blog/project_management_insights_lee_lambert)
  - [Introducing Gally at phpugffm24](https://blog.bitexpert.de/blog/phugffm24_gally)
  - [Updating Xdebug via PECL in DDEV](https://blog.bitexpert.de/blog/ddev_pecl_xdebug)
  - [Introducing Gally at phpugrhh24](https://blog.bitexpert.de/blog/phugrhh24_gally)
  - [Zero Trust Access with Hashicorp Boundary](https://blog.bitexpert.de/blog/zero_trust_access_hashicorp_boundary)
- - [What are Sylius Template Events?](https://blog.bitexpert.de/blog/sylius_template_events)
 <!--- blog_end --->
 
 ## We are hiring
