@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Spring Modulith introduction (majug24)](https://blog.bitexpert.de/blog/majug24_spring_modulith)
  - [Project management insights by Lee Lambert](https://blog.bitexpert.de/blog/project_management_insights_lee_lambert)
  - [Introducing Gally at phpugffm24](https://blog.bitexpert.de/blog/phugffm24_gally)
  - [Updating Xdebug via PECL in DDEV](https://blog.bitexpert.de/blog/ddev_pecl_xdebug)
  - [Introducing Gally at phpugrhh24](https://blog.bitexpert.de/blog/phugrhh24_gally)
- - [Zero Trust Access with Hashicorp Boundary](https://blog.bitexpert.de/blog/zero_trust_access_hashicorp_boundary)
 <!--- blog_end --->
 
 ## We are hiring
