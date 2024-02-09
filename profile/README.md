@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [PHPUGMRN 01/24 meetup](https://blog.bitexpert.de/blog/phpugmrn_meetup_feb_2024)
  - [Techradar 2024 update](https://blog.bitexpert.de/blog/techradar_update_2024)
  - [Detect expiring todo comments with PHPStan](https://blog.bitexpert.de/blog/phpstan_todo_comments_with_expiration)
  - [Customize the Sylius Checkout](https://blog.bitexpert.de/blog/customize_sylius_checkout)
  - [Spring Modulith introduction (majug24)](https://blog.bitexpert.de/blog/majug24_spring_modulith)
- - [Project management insights by Lee Lambert](https://blog.bitexpert.de/blog/project_management_insights_lee_lambert)
 <!--- blog_end --->
 
 ## We are hiring
