@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Intrexx Process Looping](https://blog.bitexpert.de/blog/intrexx_process_looping)
  - [Sylius Grid Deep Dive](https://blog.bitexpert.de/blog/sylius_grid_deep_dive)
  - [Nomad TLS error in CI pipeline](https://blog.bitexpert.de/blog/nomad_tls_error_ci_pipeline)
  - [Hello Techradar v4!](https://blog.bitexpert.de/blog/techradar_v4)
  - [Nomad OIDC authentication with Entra ID](https://blog.bitexpert.de/blog/nomad_oidc_entra_id)
- - [PHPUGFFM 02/24 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_march_2024)
 <!--- blog_end --->
 
 ## We are hiring
