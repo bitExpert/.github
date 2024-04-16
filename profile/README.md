@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Delete S3 buckets fast](https://blog.bitexpert.de/blog/delete_s3_buckets_fast)
  - [Intrexx Process Looping](https://blog.bitexpert.de/blog/intrexx_process_looping)
  - [Sylius Grid Deep Dive](https://blog.bitexpert.de/blog/sylius_grid_deep_dive)
  - [Nomad TLS error in CI pipeline](https://blog.bitexpert.de/blog/nomad_tls_error_ci_pipeline)
  - [Hello Techradar v4!](https://blog.bitexpert.de/blog/techradar_v4)
- - [Nomad OIDC authentication with Entra ID](https://blog.bitexpert.de/blog/nomad_oidc_entra_id)
 <!--- blog_end --->
 
 ## Contact us
