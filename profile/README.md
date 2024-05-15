@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [FrankenPHP + GitLab CI: Release PHP Apps as Binaries](https://blog.bitexpert.de/blog/frankenphp-gitlab-ci)
  - [Not enough free space on the disk for Nexus to start](https://blog.bitexpert.de/blog/nexus_orientdb_diskfreespacelimit)
  - [SymfonyLive Berlin 2024: Gally](https://blog.bitexpert.de/blog/symfony_live_berlin_2024)
  - [IONOS Cloud: Logging as a Service Howto](https://blog.bitexpert.de/blog/ionos_cloud_laas)
  - [Adding Klaro! Consent Manager to Docusaurus](https://blog.bitexpert.de/blog/docusaurus_klaro_consent_manager)
- - [Delete S3 buckets fast](https://blog.bitexpert.de/blog/delete_s3_buckets_fast)
 <!--- blog_end --->
 
 ## Contact us
