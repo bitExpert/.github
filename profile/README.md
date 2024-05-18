@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [API Platform Conference 2023](https://blog.bitexpert.de/blog/api_platform_conference_2023)
  - [PHPUGFFM 03/24 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_may_2024)
  - [FrankenPHP + GitLab CI: Release PHP Apps as Binaries](https://blog.bitexpert.de/blog/frankenphp-gitlab-ci)
  - [Not enough free space on the disk for Nexus to start](https://blog.bitexpert.de/blog/nexus_orientdb_diskfreespacelimit)
  - [SymfonyLive Berlin 2024: Gally](https://blog.bitexpert.de/blog/symfony_live_berlin_2024)
- - [IONOS Cloud: Logging as a Service Howto](https://blog.bitexpert.de/blog/ionos_cloud_laas)
 <!--- blog_end --->
 
 ## Contact us
