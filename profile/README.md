@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [HashiDays 2024 Munich recap](https://blog.bitexpert.de/blog/hashidays_2024_recap)
  - [MS Graph API: Filter queries](https://blog.bitexpert.de/blog/msgraph_api_filter_queries)
  - [Adding wkhtmltopdf to the Sylius Alpine Docker image](https://blog.bitexpert.de/blog/sylius_docker_alpine_wkhtmltopdf)
  - [Export CSV files via MySQL](https://blog.bitexpert.de/blog/export_csv_files_via_mysql)
  - [API Platform Conference 2024](https://blog.bitexpert.de/blog/api_platform_conference_2024)
- - [PHPUGFFM 03/24 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_may_2024)
 <!--- blog_end --->
 
 ## Contact us
