@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Introducing Gally at Magento Stammtisch Berlin](https://blog.bitexpert.de/blog/magento_stammtisch_berlin_gally)
  - [Sylius Customer Force Login Module 0.1.0](https://blog.bitexpert.de/blog/sylius_force_login_0_1_0)
  - [Intrexx & Font Awesome ](https://blog.bitexpert.de/blog/intrexx_font_awesome)
  - [HashiDays 2024 Munich recap](https://blog.bitexpert.de/blog/hashidays_2024_recap)
  - [MS Graph API: Filter queries](https://blog.bitexpert.de/blog/msgraph_api_filter_queries)
- - [Adding wkhtmltopdf to the Sylius Alpine Docker image](https://blog.bitexpert.de/blog/sylius_docker_alpine_wkhtmltopdf)
 <!--- blog_end --->
 
 ## Contact us
