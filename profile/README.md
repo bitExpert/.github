@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Predefined list of tags in Docusaurus](https://blog.bitexpert.de/blog/docusaurus_predefined_list_of_tags)
  - [Deploying Sylius on Nomad](https://blog.bitexpert.de/blog/deploying_sylius_on_nomad)
  - [PHPUGMRN 03/24 meetup](https://blog.bitexpert.de/blog/phpugmrn_meetup_june_2024)
  - [Introducing Gally at Magento Stammtisch Berlin](https://blog.bitexpert.de/blog/magento_stammtisch_berlin_gally)
  - [Sylius Customer Force Login Module 0.1.0](https://blog.bitexpert.de/blog/sylius_force_login_0_1_0)
- - [Intrexx & Font Awesome ](https://blog.bitexpert.de/blog/intrexx_font_awesome)
 <!--- blog_end --->
 
 ## Contact us
