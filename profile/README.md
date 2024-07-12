@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Windows Terminal newTab Menu](https://blog.bitexpert.de/blog/mwindows_terminal_newtab_menu)
  - [PHP Developer Day 2024 Conference](https://blog.bitexpert.de/blog/php_developer_day_2024)
  - [Running Boundary on Nomad](https://blog.bitexpert.de/blog/boundary_nomad)
  - [Predefined list of tags in Docusaurus](https://blog.bitexpert.de/blog/docusaurus_predefined_list_of_tags)
  - [Deploying Sylius on Nomad](https://blog.bitexpert.de/blog/deploying_sylius_on_nomad)
- - [PHPUGMRN 03/24 meetup](https://blog.bitexpert.de/blog/phpugmrn_meetup_june_2024)
 <!--- blog_end --->
 
 ## Contact us
