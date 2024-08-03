@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Magento Cron via systemd timers](https://blog.bitexpert.de/blog/magento_systemd_timer)
  - [Why Nomad?](https://blog.bitexpert.de/blog/why_hashicorp_nomad)
  - [PHPUGMRN 04/24 meetup](https://blog.bitexpert.de/blog/phpugmrn_meetup_aug_2024)
  - [Vendor patches, the easy way!](https://blog.bitexpert.de/blog/vendor_patches_the_easy_way)
  - [Windows Terminal newTab Menu](https://blog.bitexpert.de/blog/mwindows_terminal_newtab_menu)
- - [PHP Developer Day 2024 Conference](https://blog.bitexpert.de/blog/php_developer_day_2024)
 <!--- blog_end --->
 
 ## Contact us
