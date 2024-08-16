@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Boundary, Traefik and haproxy](https://blog.bitexpert.de/blog/boundary_traefik_haproxy)
  - [Sharing Docker Volumes in DDEV](https://blog.bitexpert.de/blog/ddev_share_volume)
  - [Magento Cron via systemd timers](https://blog.bitexpert.de/blog/magento_systemd_timer)
  - [Why Nomad?](https://blog.bitexpert.de/blog/why_hashicorp_nomad)
  - [PHPUGMRN 04/24 meetup](https://blog.bitexpert.de/blog/phpugmrn_meetup_aug_2024)
- - [Vendor patches, the easy way!](https://blog.bitexpert.de/blog/vendor_patches_the_easy_way)
 <!--- blog_end --->
 
 ## Contact us
