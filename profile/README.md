@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Fixing duplicate primary key problem during Magento upgrade](https://blog.bitexpert.de/blog/magento_duplicate_primary_key_problem)
  - [SSO with Sulu CMS and Entra ID](https://blog.bitexpert.de/blog/sulu_cms_sso_azure)
  - [Boundary, Traefik and haproxy](https://blog.bitexpert.de/blog/boundary_traefik_haproxy)
  - [Sharing Docker Volumes in DDEV](https://blog.bitexpert.de/blog/ddev_share_volume)
  - [Magento Cron via systemd timers](https://blog.bitexpert.de/blog/magento_systemd_timer)
- - [Why Nomad?](https://blog.bitexpert.de/blog/why_hashicorp_nomad)
 <!--- blog_end --->
 
 ## Contact us
