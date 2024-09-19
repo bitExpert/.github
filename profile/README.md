@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Fixing Magento warning MySQL innodb_buffer_pool_size](https://blog.bitexpert.de/blog/mysql_innodb_buffer_pool_size_warning)
  - [Migrate MS Teams webhooks to Power Automate](https://blog.bitexpert.de/blog/ms_teams_webhook_changes)
  - [PHPUGFFM 04/24 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_september_2024)
  - [Using Basic Auth in Traefik conditionally](https://blog.bitexpert.de/blog/traefik_conditionally_http_basic_auth)
  - [Fixing duplicate primary key problem during Magento upgrade](https://blog.bitexpert.de/blog/magento_duplicate_primary_key_problem)
- - [SSO with Sulu CMS and Entra ID](https://blog.bitexpert.de/blog/sulu_cms_sso_azure)
 <!--- blog_end --->
 
 ## Contact us
