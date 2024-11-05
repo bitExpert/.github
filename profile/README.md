@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Fixing encoding issues with mb_convert_encoding()](https://blog.bitexpert.de/blog/fixing_encoding_issues_with_mb_convert_encoding)
  - [Clean up GitLab CI Build artifacts](https://blog.bitexpert.de/blog/gitlab_ci_bulk_delete_artifacts)
  - [Simplifying Sylius Containerization with DDEV at SyliusCon 2024](https://blog.bitexpert.de/blog/syliuscon_2024_ddev)
  - [Dynamic Page Redirects in Intrexx](https://blog.bitexpert.de/blog/intrexx_dynamic_page_redirect)
  - [Encrypting Data with Doctrine](https://blog.bitexpert.de/blog/data_encryption_with_doctrine)
- - [Simplifying Symfony Containerization with DDEV at SymfonyCon 2024](https://blog.bitexpert.de/blog/symfonycon_2024_ddev)
 <!--- blog_end --->
 
 ## Contact us
