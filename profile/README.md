@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Formatting XML with Twig](https://blog.bitexpert.de/blog/xml_output_formatting_twig)
  - [The Role of Attributes and Settings of Intrexx Elements](https://blog.bitexpert.de/blog/intrexx_elements_attributes_settings)
  - [Fixing encoding issues with mb_convert_encoding()](https://blog.bitexpert.de/blog/fixing_encoding_issues_with_mb_convert_encoding)
  - [Clean up GitLab CI Build artifacts](https://blog.bitexpert.de/blog/gitlab_ci_bulk_delete_artifacts)
  - [Simplifying Sylius Containerization with DDEV at SyliusCon 2024](https://blog.bitexpert.de/blog/syliuscon_2024_ddev)
- - [Dynamic Page Redirects in Intrexx](https://blog.bitexpert.de/blog/intrexx_dynamic_page_redirect)
 <!--- blog_end --->
 
 ## Contact us
