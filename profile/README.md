@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Adding metadata to an API Platform Input DTO](https://blog.bitexpert.de/blog/apiplatform_input_dto_metadata)
  - [Docusaurus Faster](https://blog.bitexpert.de/blog/docusaurus_faster)
  - [Session values in  Intrexx](https://blog.bitexpert.de/blog/session_values_in_intrexx)
  - [Sulu Media Storage on IONOS Cloud S3](https://blog.bitexpert.de/blog/sulu_ionos_cloud_s3)
  - [Sylius Grid: Filter data for user](https://blog.bitexpert.de/blog/sylius_gridbundle_filter_for_user)
- - [PHPUGMRN 06/24 meetup](https://blog.bitexpert.de/blog/phpugmrn_meetup_dec_2024)
 <!--- blog_end --->
 
 ## Contact us
