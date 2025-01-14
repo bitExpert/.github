@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Building SyliusGPT with the IONOS AI Model Hub](https://blog.bitexpert.de/blog/ionos_ai_model_hub_sylius)
  - [Create a Secret Santa application using Intrexx (Part 2)](https://blog.bitexpert.de/blog/intrexx_secret_santa_part2)
  - [Vulnerabilities scanning with IONOS Container Registry](https://blog.bitexpert.de/blog/ionos_container_registry_vulnerabilities_scanning)
  - [Create a Secret Santa application using Intrexx (Part 1)](https://blog.bitexpert.de/blog/intrexx_secret_santa_part1)
  - [SymfonyCon Vienna 2024](https://blog.bitexpert.de/blog/symfony-con-2024)
- - [Adding metadata to an API Platform Input DTO](https://blog.bitexpert.de/blog/apiplatform_input_dto_metadata)
 <!--- blog_end --->
 
 ## Contact us
