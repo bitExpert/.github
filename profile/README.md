@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Techradar 2025 update](https://blog.bitexpert.de/blog/techradar_update_2025)
  - [Introducing Sylius Stack](https://blog.bitexpert.de/blog/introducing_sylius_stack)
  - [Dynamic Secrets with Vault & Boundary](https://blog.bitexpert.de/blog/dynamic_secrets_with_vault_boundary)
  - [New Sylius Force Login Plugin Release](https://blog.bitexpert.de/blog/sylius_force_login_0_3)
  - [PHPUGFFM 01/25 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_january_2025)
- - [Building SyliusGPT with the IONOS AI Model Hub](https://blog.bitexpert.de/blog/ionos_ai_model_hub_sylius)
 <!--- blog_end --->
 
 ## Contact us
