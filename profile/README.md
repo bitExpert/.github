@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [PHPUGMRN 02/25 meetup](https://blog.bitexpert.de/blog/phpugmrn_april_2025.md)
  - [HashiCorp Ambassador 2025](https://blog.bitexpert.de/blog/hashicorp_ambassador_2025)
  - [Extending a Twig Component in Sylius 2.0](https://blog.bitexpert.de/blog/extend_sylius_twig_component)
  - [Issue with PHPStorm & PHPStan on WSL2](https://blog.bitexpert.de/blog/phpstorm_phpstan_wsl2_issue)
  - [PHPUGFFM 02/25 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_march_2025)
- - [Securing the Symfony UX Autocomplete component](https://blog.bitexpert.de/blog/securing_symfony_ux_autocomplete)
 <!--- blog_end --->
 
 ## Contact us
