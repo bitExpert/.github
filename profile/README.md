@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [PHPUGFFM 03/25 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_june_2025)
  - [Extending a Live Component in Sylius 2.0](https://blog.bitexpert.de/blog/extend_sylius_live_component)
  - [Migrating from Monofony to Sylius Stack](https://blog.bitexpert.de/blog/migrating_monofony_to_sylius_stack)
  - [PHPUGMRN 02/25 meetup](https://blog.bitexpert.de/blog/phpugmrn_april_2025)
  - [HashiCorp Ambassador 2025](https://blog.bitexpert.de/blog/hashicorp_ambassador_2025)
- - [Extending a Twig Component in Sylius 2.0](https://blog.bitexpert.de/blog/extend_sylius_twig_component)
 <!--- blog_end --->
 
 ## Contact us
