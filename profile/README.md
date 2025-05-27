@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Sylius Days 2025 review](https://blog.bitexpert.de/blog/sylius_days_2025)
  - [Authentication Methods for an External API Using Intrexx](https://blog.bitexpert.de/blog/intrexx_external_auth)
  - [PHPUGMRN 03/25 meetup (the Sylius meetup)](https://blog.bitexpert.de/blog/phpugmrn_june_2025)
- - [Using array shape as custom type in PHPStan](https://blog.bitexpert.de/blog/phpstan_array_shape_as_custom_type.md)
+ - [Using array shape as custom type in PHPStan](https://blog.bitexpert.de/blog/phpstan_array_shape_as_custom_type)
  - [Using Live Components in Sylius Twig Hooks](https://blog.bitexpert.de/blog/sylius_twig_hooks_and_live_components)
- - [PHPUGFFM 03/25 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_june_2025)
 <!--- blog_end --->
 
 ## Contact us
