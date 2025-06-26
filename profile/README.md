@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Handling permissions with Sylius Resource Bundle](https://blog.bitexpert.de/blog/sylius_resource_bundle_permission_handling)
  - [Nomad Host Network Configuration](https://blog.bitexpert.de/blog/nomad_host_network)
  - [Running DDEV with FrankenPHP](https://blog.bitexpert.de/blog/ddev_frankenphp)
  - [30 years of PHP](https://blog.bitexpert.de/blog/30-years-of-php)
  - [Handling PostgreSQL Migrations in Node.js](https://blog.bitexpert.de/blog/migrations-with-node-pg-migrate)
- - [Using Dynamic Host Volumes in Nomad](https://blog.bitexpert.de/blog/nomad_dynamic_host_volumes)
 <!--- blog_end --->
 
 ## Contact us
