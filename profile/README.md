@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [programmier.con 2025: Web & AI](https://blog.bitexpert.de/blog/programmier_con_2025)
  - [SFTPGo - highly configurable event-driven file transfer](https://blog.bitexpert.de/blog/sftpgo_sftp_server)
  - [Sharing Secrets with Nomad Workload Identity](https://blog.bitexpert.de/blog/nomad_workload_identity_secret_sharing)
  - [PHP Developer Day 2025 Conference](https://blog.bitexpert.de/blog/php_developer_day_2025)
  - [Sylius Resource Bundle Routing Demystified](https://blog.bitexpert.de/blog/sylius_resource_bundle_routing)
- - [Introducing SMTP2Graph](https://blog.bitexpert.de/blog/introducing_smtp2graph)
 <!--- blog_end --->
 
 ## Contact us
