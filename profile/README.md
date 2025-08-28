@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Monitoring Warnings, Notices and Deprecations with Tideways](https://blog.bitexpert.de/blog/tideways_warnings_notices_deprecations)
  - [Deleting dynamic host volumes in Nomad](https://blog.bitexpert.de/blog/nomad_delete_host_volume_error)
  - [programmier.con 2025: Web & AI](https://blog.bitexpert.de/blog/programmier_con_2025)
  - [SFTPGo - highly configurable event-driven file transfer](https://blog.bitexpert.de/blog/sftpgo_sftp_server)
  - [Sharing Secrets with Nomad Workload Identity](https://blog.bitexpert.de/blog/nomad_workload_identity_secret_sharing)
- - [PHP Developer Day 2025 Conference](https://blog.bitexpert.de/blog/php_developer_day_2025)
 <!--- blog_end --->
 
 ## Contact us
