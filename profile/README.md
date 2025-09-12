@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Logging to IONOS Cloud LaaS with Nomad](https://blog.bitexpert.de/blog/nomad_logging_ionos_cloud_laas)
  - [unKonf 2025](https://blog.bitexpert.de/blog/unkonf-2025)
  - [DDEV & Sylius Test Application](https://blog.bitexpert.de/blog/ddev_sylius_test_application)
  - [Monitoring Warnings, Notices and Deprecations with Tideways](https://blog.bitexpert.de/blog/tideways_warnings_notices_deprecations)
  - [Deleting dynamic host volumes in Nomad](https://blog.bitexpert.de/blog/nomad_delete_host_volume_error)
- - [programmier.con 2025: Web & AI](https://blog.bitexpert.de/blog/programmier_con_2025)
 <!--- blog_end --->
 
 ## Contact us
