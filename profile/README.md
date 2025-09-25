@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Migrating from TraefikEE to Traefik Proxy](https://blog.bitexpert.de/blog/migrating_traefikee_to_traefik_proxy)
  - [Translate CRUD Flash Messages for Sylius Resources](https://blog.bitexpert.de/blog/translate-sylius-crud-flash-messages)
  - [Logging to IONOS Cloud LaaS with Nomad](https://blog.bitexpert.de/blog/nomad_logging_ionos_cloud_laas)
  - [unKonf 2025](https://blog.bitexpert.de/blog/unkonf-2025)
  - [DDEV & Sylius Test Application](https://blog.bitexpert.de/blog/ddev_sylius_test_application)
- - [Monitoring Warnings, Notices and Deprecations with Tideways](https://blog.bitexpert.de/blog/tideways_warnings_notices_deprecations)
 <!--- blog_end --->
 
 ## Contact us
