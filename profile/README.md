@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Creating and enabling IONOS Cloud LaaS users](https://blog.bitexpert.de/blog/ionos_cloud_laas_enable_user)
  - [The ultimate Sylius UX Components guide](https://blog.bitexpert.de/blog/sylius_ux_components_guide)
  - [Simplifying Sylius Containerization with DDEV at SyliusCon 2025](https://blog.bitexpert.de/blog/syliuscon_2025_ddev)
  - [How to style error pages in Sylius](https://blog.bitexpert.de/blog/sylius_style_error_pages)
  - [PHPUGMRN 05/25 meetup](https://blog.bitexpert.de/blog/phpugmrn_ocotober_2025)
- - [Migrating from TraefikEE to Traefik Proxy](https://blog.bitexpert.de/blog/migrating_traefikee_to_traefik_proxy)
 <!--- blog_end --->
 
 ## Contact us
