@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Nvidia workloads on Nomad](https://blog.bitexpert.de/blog/nomad_nvidia_workload)
  - [Layout-Dependent Custom CSS in Intrexx](https://blog.bitexpert.de/blog/intrexx_layout_dependent_custom_css)
  - [Configure Cart Redirect in Sylius](https://blog.bitexpert.de/blog/sylius_cart_redirect)
  - [Intrexx Post-Update Issue and Resolution](https://blog.bitexpert.de/blog/intrexx_post_update_issue_and_resolution)
  - [Dealing with special chars in a Nomad Template block](https://blog.bitexpert.de/blog/dealing_with_special_chars_in_nomad_template)
- - [Announcing bitexpert/phpstan-sylius 0.2.0](https://blog.bitexpert.de/blog/phpstan_sylius_0_2_0)
 <!--- blog_end --->
 
 ## Contact us
