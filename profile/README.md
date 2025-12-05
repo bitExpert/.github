@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [IONOS Cloud S3 Bucket Policy configuration](https://blog.bitexpert.de/blog/ionos_cloud_s3_bucket_policy)
  - [PHPUGMRN 06/25 meetup](https://blog.bitexpert.de/blog/phpugmrn_december_2025)
  - [Nvidia workloads on Nomad](https://blog.bitexpert.de/blog/nomad_nvidia_workload)
  - [Layout-Dependent Custom CSS in Intrexx](https://blog.bitexpert.de/blog/intrexx_layout_dependent_custom_css)
  - [Configure Cart Redirect in Sylius](https://blog.bitexpert.de/blog/sylius_cart_redirect)
- - [Intrexx Post-Update Issue and Resolution](https://blog.bitexpert.de/blog/intrexx_post_update_issue_and_resolution)
 <!--- blog_end --->
 
 ## Contact us
