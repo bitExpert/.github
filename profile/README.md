@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [ConFoo 2026](https://blog.bitexpert.de/blog/confoo_2026)
  - [Hello Docusaurus Search!](https://blog.bitexpert.de/blog/hello_docusaurus_search)
  - [Refresh Sylius Image Cache](https://blog.bitexpert.de/blog/refresh_sylius_image_cache)
  - [Introducing the DDEV Gally Addon](https://blog.bitexpert.de/blog/ddev_gally_addon)
  - [What are Sylius Twig Hook Sections?](https://blog.bitexpert.de/blog/sylius_twig_hook_sections)
- - [SeaweedFS for S3 workloads](https://blog.bitexpert.de/blog/seaweedfs_s3)
 <!--- blog_end --->
 
 ## Contact us
