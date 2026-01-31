@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [How to define index prefixes in Gally?](https://blog.bitexpert.de/blog/define_gally_index_prefixes)
  - [SpeaKonf 2026](https://blog.bitexpert.de/blog/speakonf_2026)
  - [What are Anonymous Template Component Prefixes in Sylius?](https://blog.bitexpert.de/blog/sylius_anonymous_component_template_prefixes)
  - [PHP Version Constraints for Renovate Bot](https://blog.bitexpert.de/blog/renovate_bot_php_version_constraints)
  - [ConFoo 2026](https://blog.bitexpert.de/blog/confoo_2026)
- - [Hello Docusaurus Search!](https://blog.bitexpert.de/blog/hello_docusaurus_search)
 <!--- blog_end --->
 
 ## Contact us
