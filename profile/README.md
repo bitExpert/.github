@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [IBM Champion 2026](https://blog.bitexpert.de/blog/ibm_champion_2026)
  - [PHPUGFFM 02/26 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_march_2026)
  - [How to update the OIDC config in Nomad?](https://blog.bitexpert.de/blog/nomad_update_oidc_config)
  - [Hello 2FA Sylius Plugin!](https://blog.bitexpert.de/blog/announcing_sylius_2fa)
  - [PHPUGMRN 01/26 meetup](https://blog.bitexpert.de/blog/phpugmrn_february_2026)
- - [Techradar 2026 update](https://blog.bitexpert.de/blog/techradar_update_2026)
 <!--- blog_end --->
 
 ## Contact us
