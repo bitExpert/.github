@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [How to autocomplete translatable entities in Sylius](https://blog.bitexpert.de/blog/sylius_translations_autocomplete)
  - [SymfonyLive 2026 Berlin Recap](https://blog.bitexpert.de/blog/symfonylive_2026_berlin_recap)
  - [Symfony AI Mate with DDEV](https://blog.bitexpert.de/blog/symfony_ai_mate_ddev)
  - [PHPUGFFM 03/25 meetup](https://blog.bitexpert.de/blog/phpugffm_meetup_may_2025)
  - [Configuring the Sylius Breadcrumb element](https://blog.bitexpert.de/blog/configuring_sylius_breadcrumb)
- - [File uploads with the Sylius Settings plugin](https://blog.bitexpert.de/blog/sylius_settings_file_upload)
 <!--- blog_end --->
 
 ## Contact us
