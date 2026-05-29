@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [PHP Developer Day 2026 Conference](https://blog.bitexpert.de/blog/php_developer_day_2026)
  - [Sound Notifications in OpenCode](https://blog.bitexpert.de/blog/opencode_plugin_notifications)
  - [Using templates in Nomad job files](https://blog.bitexpert.de/blog/using_templates_in_nomad)
  - [API Platform Conference 2026](https://blog.bitexpert.de/blog/api_platform_conference_2026)
  - [How to autocomplete translatable entities in Sylius](https://blog.bitexpert.de/blog/sylius_translations_autocomplete)
- - [SymfonyLive 2026 Berlin Recap](https://blog.bitexpert.de/blog/symfonylive_2026_berlin_recap)
 <!--- blog_end --->
 
 ## Contact us
