@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Codebase Memory Management for OpenCode](https://blog.bitexpert.de/blog/opencode_codebase_memory_mcp)
  - [How to customize Sylius Grids?](https://blog.bitexpert.de/blog/sylius_grid_customization)
  - [Nomad Rescheduling Error](https://blog.bitexpert.de/blog/nomad_rescheduling_error)
  - [Forking Repman (our story)](https://blog.bitexpert.de/blog/repman_fork)
  - [Symfony UX Calendar Links](https://blog.bitexpert.de/blog/symfony_ux_calendar_links)
- - [PHPUGMRN 03/26 meetup](https://blog.bitexpert.de/blog/phpugmrn_june_2026)
 <!--- blog_end --->
 
 ## Contact us
