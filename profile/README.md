@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [DDEV Gally 2.3 Addon Release](https://blog.bitexpert.de/blog/ddev_gally_2_3_0_addon)
  - [PHPUGMRN 04/26 meetup](https://blog.bitexpert.de/blog/phpugmrn_august_2026)
  - [How we've built the unKonf ticketshop](https://blog.bitexpert.de/blog/how_we_built_unkonf_ticketshop)
  - [Connection Pooling for Onyx AI](https://blog.bitexpert.de/blog/onyx_connection_pooling)
  - [Codebase Memory Management for OpenCode](https://blog.bitexpert.de/blog/opencode_codebase_memory_mcp)
- - [How to customize Sylius Grids?](https://blog.bitexpert.de/blog/sylius_grid_customization)
 <!--- blog_end --->
 
 ## Contact us
