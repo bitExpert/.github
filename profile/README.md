@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [Traefik OIDC setup](https://blog.bitexpert.de/blog/traefik_oidc)
  - [Running Qwen 3.8 on Hashicorp Nomad](https://blog.bitexpert.de/blog/nomad_qwen_3_8)
  - [The WebMCP Challenge: Wishlist Concierge](https://blog.bitexpert.de/blog/webmcp_challenge_sylius_wishlist_concierge)
  - [Runtime Doctrine ORM analysis with Doctrine Doctor](https://blog.bitexpert.de/blog/doctrine_doctor)
  - [Improving Cert Handling in Nomad](https://blog.bitexpert.de/blog/nomad_improved_cert_handling)
- - [Odoo development with DDEV](https://blog.bitexpert.de/blog/odoo_development_with_ddev)
 <!--- blog_end --->
 
 ## Contact us
