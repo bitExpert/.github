@@ -14,11 +14,11 @@ Once a year we organize [unKonf](https://www.unKonf.de) an unconference focussin
 
 Also, we love to share our thoughts and experiences in our [blog](https://blog.bitExpert.de). These are our latest blog posts:
 <!--- blog_start --->
+ - [FrankenPHP & Caddy WAF](https://blog.bitexpert.de/blog/frankenphp_caddy_waf)
  - [PHPUGMRN 05/26 meetup (Symfony meetup)](https://blog.bitexpert.de/blog/phpugmrn_october_2026)
  - [Symfony Security Auditor](https://blog.bitexpert.de/blog/symfony_security_auditor)
  - [Hot reload with FrankenPHP](https://blog.bitexpert.de/blog/frankenphp_hot_reload)
  - [Traefik OIDC setup](https://blog.bitexpert.de/blog/traefik_oidc)
- - [Running Qwen 3.8 on Hashicorp Nomad](https://blog.bitexpert.de/blog/nomad_qwen_3_8)
 <!--- blog_end --->
 
 ## Contact us
